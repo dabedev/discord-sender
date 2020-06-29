@@ -1,7 +1,7 @@
 # Discord Messager
 Is a template made to send messages from website to the [discord app](https://discordapp.com/).
 
-## Developed in:
+## Developed with:
 > - HTML5
 > - Materialize
 > - CSS
