@@ -1,0 +1,31 @@
+{
+  "name": "discord-sender",
+  "version": "0.0.1",
+  "description": "Send messages from website to discord channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyyDev/discord-sender.git"
+  },
+  "keywords": [
+    "discord",
+    "sender"
+  ],
+  "author": "Daniel Benitez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DannyyDev/discord-sender/issues"
+  },
+  "homepage": "https://github.com/DannyyDev/discord-sender#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "passport": "^0.4.1",
+    "passport-discord": "^0.1.4"
+  }
+}

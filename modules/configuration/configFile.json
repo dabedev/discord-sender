@@ -1,0 +1,7 @@
+{
+    "token":"TOKEN GOES HERE",
+    "channelID": "CHANNEL ID GOES HERE",
+    "clientID": "BOT ID GOES HERE",
+    "clientSecret": "BOT SECRET KEY GOES HERE",
+    "callbackURL": "CALLBACK URL GOES HERE"
+}
